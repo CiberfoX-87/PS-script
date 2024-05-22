@@ -1,1 +1,2 @@
-Tutti i file sono distribuiti con licenza BSD caluse 2
+Tutti i contenuti presenti in questo repository sono soggetti ai temini di licenza presenti nel file LICENSE.MD
+
